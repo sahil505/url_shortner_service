@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/sahil505/url_shortner_service#readme",
   "dependencies": {
-    "config": "^3.2.2",
+    "config": "^3.3.8",
     "express": "^4.17.1",
     "mongoose": "^5.6.9",
     "shortid": "^2.2.14",
